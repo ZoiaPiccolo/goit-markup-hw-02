@@ -157,3 +157,7 @@ body {
 .footer-link-main {
     color: var(--secondary-text-color);
 }
+
+.current-link {
+    color: var(--accent-color);
+}
